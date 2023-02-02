@@ -1,0 +1,15 @@
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/bin/Debug/net6.0/task2
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/bin/Debug/net6.0/task2.deps.json
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/bin/Debug/net6.0/task2.dll
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/bin/Debug/net6.0/task2.pdb
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.dll
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.pdb
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/mubarizabdulkhaligli/Desktop/1/task2/task2/obj/Debug/net6.0/ref/task2.dll
