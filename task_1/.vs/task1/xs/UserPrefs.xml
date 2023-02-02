@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{ADF70F3B-D63C-4DA2-815C-D06A1B4CDFBA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="task1/Program.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="28" Column="61" />
+      <File FileName="task1/Product.cs" Line="20" Column="1" />
+      <File FileName="task1/Store.cs" Line="22" Column="5" />
+      <File FileName="task1/ProductNotFoundException.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
